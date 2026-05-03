@@ -7,7 +7,7 @@
   - After installation, add the JDK bin directory to your system PATH environment variable.
   - Restart HDFView — it should now open correctly.
 
-<img width="429" height="331" alt="1" src="<img width="674" height="693" alt="2026-05-04_02-25" src="https://github.com/user-attachments/assets/c70bd341-d838-44cf-a380-f7745e6b10a1" />
+src="<img width="674" height="693" alt="2026-05-04_02-25" src="https://github.com/user-attachments/assets/c70bd341-d838-44cf-a380-f7745e6b10a1" />
 " />
 
 ## Data Structure
