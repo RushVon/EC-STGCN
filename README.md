@@ -7,8 +7,8 @@
   - After installation, add the JDK bin directory to your system PATH environment variable.
   - Restart HDFView — it should now open correctly.
 
-src="<img width="674" height="693" alt="2026-05-04_02-25" src="https://github.com/user-attachments/assets/c70bd341-d838-44cf-a380-f7745e6b10a1" />
-" />
+<img width="674" height="693" alt="2026-05-04_02-25" src="https://github.com/user-attachments/assets/c70bd341-d838-44cf-a380-f7745e6b10a1" />
+
 
 ## Data Structure
 The dataset is stored in HDF5 format and consists of three main components:
